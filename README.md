@@ -13,7 +13,6 @@ Script em Python para leitura, análise e manipulação de dados acadêmicos em 
 ## 🚀 Como Usar
 Certifique-se de que alunos.xlsx está no mesmo diretório.
 A aba deve se chamar Alunos com as colunas: Nome, Curso, Idade, Nota Final, Data Matricula (dados a partir da linha 2).
-Execute:
 
 ## Execute
 
